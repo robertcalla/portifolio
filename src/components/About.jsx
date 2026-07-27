@@ -2,7 +2,7 @@ import { useReveal } from "../useReveal.js";
 
 export const BIO =
   "Estou no meu quarto ano de graduação na PUC-Rio no curso de Ciências da computação" +
-    "e estou a mais de 3 anos projetando sistemas Front-end de alta performance. Gosto de problemas " +
+    " e me encontro a mais de 3 anos projetando sistemas Front-end de alta performance. Gosto de problemas " +
   "de arquitetura, de código que escala sem drama, e de deixar rastros de decisão " +
   "claros para o próximo engenheiro.";
 
